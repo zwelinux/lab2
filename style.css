@@ -6,7 +6,22 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 40px;
+
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
+
+.header-image {
+    width: 40%;
+    border: 1px solid #000000;
+}
+
+.header-image-img {
+    width: 170px;
+    border-radius: 50%;
+    border: 3px solid #ffff;
+}
+
 
 .container {
     width: 95%;
