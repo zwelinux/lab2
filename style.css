@@ -12,14 +12,21 @@
 }
 
 .header-image {
-    width: 40%;
+    width: 300px;
     border: 1px solid #000000;
+    text-align: center;
 }
 
 .header-image-img {
     width: 170px;
     border-radius: 50%;
     border: 3px solid #ffff;
+}
+
+.header-content {
+    width: 700px;
+    text-align: center;
+    border: 1px solid #2d2d2d;
 }
 
 
